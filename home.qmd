@@ -1,0 +1,12 @@
+---
+title: "A. Pruthvika Reddy | MBA Portfolio"
+format: html
+---
+<div style="text-align: center;">
+  <img src="images/pruthvika.jpg" alt="A.Pruthvika Reddy" width="150" style="border-radius: 50%;" />
+</div>
+# 👋 Welcome
+
+I'm **A. Pruthvika Reddy**, a results-driven data analyst and business development specialist with over 6 years of experience in IT and education services. My goal is to bridge the gap between raw data and strategic business insights. I'm passionate about collaboration, data storytelling, and creating value in every role I undertake.
+
+➡️ Explore my portfolio to learn about my background, experience, and key projects that reflect my journey in business and data analytics.

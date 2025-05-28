@@ -1,0 +1,16 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# 🧠 Core Skills
+
+- **CRM Platforms**: Salesforce, MARS CRM  
+- **Technical**: MySQL, MS Excel, HTML, basic C  
+- **Business**: Strategic Planning, Report Generation, Communication  
+- **Languages**: English, Telugu, Hindi
+
+# 🏅 Certifications
+
+- Salesforce Administrator – Trailhead
+- Excel for Data Analysis – Coursera

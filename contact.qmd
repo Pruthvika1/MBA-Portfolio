@@ -1,0 +1,13 @@
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Get in Touch
+
+- 📧 Email: pruthvikaadla@gmail.com  
+- 📞 Phone: +91 2368621305  
+- 🌍 Location: Hyderabad, India  
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
+*Download Resume* → [Resume PDF link]

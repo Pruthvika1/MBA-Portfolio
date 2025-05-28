@@ -1,0 +1,28 @@
+---
+title: "Resume"
+format: html
+---
+
+# 📄 Resume
+
+## 🎓 Education
+
+- **MBA (In Progress)**  
+  University Canada West(UCW), Canada
+
+- **Bachelor of Technology – Computer Science Engineering**  
+  Gurunanak Institutions (GNITC), 2017
+
+## 💼 Work Experience
+
+### Data Analyst – Phoenix American Sales Focus Solution (1.7 years)
+- CRM reporting in financial services
+- Generated mutual fund & annuity reports
+- Completed a 6-month manual testing internship
+
+### Business Development Coordinator – GUS Education (4.2 years)
+- Managed Salesforce-based student applications
+- Supported global education recruitment
+- Created actionable reports for senior leaders
+ 
+[📄 Download My Resume](resume.pdf){download=true}

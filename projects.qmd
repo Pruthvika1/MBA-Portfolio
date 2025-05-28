@@ -1,0 +1,20 @@
+---
+title: "Projects"
+format: html
+---
+
+# 📊 Projects & Case Studies
+
+### Market Entry Analysis – [Course/Team Project]
+- Evaluated expansion strategies for a tech firm entering SE Asia
+- Conducted competitor and PESTLE analysis
+
+### CRM Optimization at GUS Education
+- Implemented automated workflows in Salesforce
+- Reduced processing time by 30%
+
+### Financial Product Analytics – Internship
+- Generated performance dashboards for mutual funds
+- Presented insights to cross-functional teams
+
+*More case studies available upon request.*
